@@ -1,0 +1,241 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+.focused-mission {
+    display: flex;
+    padding: 2%;
+}
+.mission-2022 {
+    width: 50%;
+    padding: 5%;
+}
+.mission-2022 img {
+    width: 80%;
+}
+.mission-2022 h1 {
+    font-size: 60px;
+    border-left: 5px solid orange;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.mission-2022 p {
+    font-size: 22px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+.mission-2022 span {
+    color: tomato;
+}
+.mission-2022 a {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px 35px;
+    border-radius: 5px;
+}
+#mission-2020-p {
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+.my-mission h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.my-mission h1 span {
+    color: tomato;
+}
+.my-mission-3 {
+    display: flex;
+    padding: 5%;
+    text-align: center;
+}
+.my-mission-3 img {
+    width: 40%;
+}
+
+.my-mission-img1 {
+    width: 30%;
+    padding: 10px;
+    background-color:rgb(241, 245, 217);
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.my-mission-img2 {
+    width: 30%;
+    padding: 10px;
+    background-color: rgb(233, 232, 246);
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+    border-radius: 15px;
+}
+.my-mission-img3 {
+    width: 30%;
+    padding: 10px;
+    background-color: rgb(226, 243, 224);
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    margin-bottom: 0;
+}
+.my-mission-img1 h3 {
+    font-size: 28px;
+
+}
+.my-mission-img2 h3 {
+    font-size: 28px;
+}
+.my-mission-img3 h3 {
+    font-size: 28px;
+}
+.my-mission-img1  p {
+    font-size: 20px;
+}
+.my-mission-img2 p {
+    font-size: 20px;
+}
+.my-mission-img3 p {
+    font-size: 20px;
+}
+.without-limits {
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.without-limits-half {
+    width: 50%;
+}
+#without-limits-half02 {
+    margin-left: 0%;
+    padding: 30px;
+}
+#without-limits-half02 p {
+    padding-bottom: 40px;
+    font-size: 18px;
+}
+.without-limits-half img {
+    width: 55%;
+    margin-left: 20%;
+    margin-top: 80px;
+}
+.without-limits-half a {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px 35px;
+    border-radius: 5px; 
+    font-size: 18px;   
+}
+.without-limits-half h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.community {
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 250px;
+}
+.community1 {
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 50px ;
+}
+.community1 h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.community1 p {
+    margin-bottom: 50px;
+}
+.community1 a {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px 35px;
+    border-radius: 5px; 
+    font-size: 18px;  
+}
+.community2 img {
+    width: 65%;
+    text-align: right;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+#connect-pro-hero {
+    margin-bottom: 100px;
+}
+#connect-pro-hero h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#connect-pro-hero span {
+    color: tomato;
+}
+.programming-hero {
+    display: flex;
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+
+.pro-hero-img img {
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 80px;
+ 
+}
+.pro-hero-ex {
+    width: 100%;
+    margin-left: 10px;
+    padding: 10px;
+    padding-right: 50px; 
+
+}
+.pro-hero-ex span {
+    color: tomato;
+}
+.pro-hero-ex h1 {
+    font-size: 40px;
+}
+.pro-hero-ex p {
+    margin-bottom: 50px;
+}
+.pro-hero-ex a {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px 35px;
+    border-radius: 5px;
+}
+
+.footer {
+    margin: 0;
+    padding: 0;
+}
+.footer-mission {
+    padding: 2% 30%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.76);
+    margin-top: 100px;
+   
+}
+.footer-mission h1 {
+    color: white;
+    font-size: 35px;
+}
+.footer-mission span {
+    color: tomato;
+}
+.footer-mission p {
+    color: rgba(255, 255, 255, 0.521);
+}
